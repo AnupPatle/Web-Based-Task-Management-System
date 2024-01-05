@@ -1,18 +1,18 @@
 # Web-Based-Task-Management-System
-##Project Overview
+## Project Overview
 
-This project is a Task Management System that utilizes various technologies for both the backend and frontend development. The backend is built using Maven for project management, Java Spring Boot for RESTful API and CRUD operations, and Spring Security for authentication. The data is stored in a MySQL database. On the frontend, JSP files are used along with Bootstrap for designing, HTML for web structure, and JavaScript for messaging logic. The Toastr library is employed to display messages.
+This project is a Task Management System that utilizes various technologies for both the backend and frontend development. The backend is built using Maven for project management, Java Spring Boot for RESTful API and CRUD operations, and Spring Security for authentication. The data is stored in a MySQL database. On the front end, JSP files are used along with Bootstrap for designing, HTML for web structure, and JavaScript for messaging logic. The Toastr library is employed to display messages.
 
-##Technologies Used
+## Technologies Used
 
-###Backend
+### Backend
 
-Maven: Build tool for the project.
+Maven: Build a tool for the project.
 Java Spring Boot: Framework for creating RESTful APIs and handling CRUD operations.
 Spring Security: Provides authentication and authorization for web-based applications.
 MySQL Database: Stores information related to the Task Management System.
 
-###Frontend
+### Frontend
 
 JSP files: Used for creating dynamic web pages.
 Bootstrap: Framework for designing responsive and visually appealing user interfaces.
@@ -20,7 +20,7 @@ HTML: Used for defining the structure of web pages.
 JavaScript: Implements messaging logic in the frontend.
 Toastr Library: Used to display messages.
 
-How to Run the Application
+## How to Run the Application
 
 Follow these steps to set up and run the Task Management System:
 
@@ -43,3 +43,5 @@ Password: 1234
 Application Start:
 
 Once authenticated, the application is ready for use.
+
+## Thank You!!!
