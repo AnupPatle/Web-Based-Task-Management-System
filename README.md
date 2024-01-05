@@ -1,5 +1,6 @@
 # Web-Based-Task-Management-System
 ##Project Overview
+
 This project is a Task Management System that utilizes various technologies for both the backend and frontend development. The backend is built using Maven for project management, Java Spring Boot for RESTful API and CRUD operations, and Spring Security for authentication. The data is stored in a MySQL database. On the frontend, JSP files are used along with Bootstrap for designing, HTML for web structure, and JavaScript for messaging logic. The Toastr library is employed to display messages.
 
 ##Technologies Used
